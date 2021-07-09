@@ -19,3 +19,26 @@ p    {
  padding-left: 60px;
 
      }
+     section {
+         display: flex;
+     }
+
+     .half-width {
+         width: 50%;
+         padding-left: 1%;
+     }
+     .half-width img{
+        width: 80%;
+        padding-top: 5%;
+        padding-left: 5%;
+      }
+      .small {
+          padding-left: 70%;
+      }
+      a {
+          padding-left: 15%;
+          background-color: orange;
+      }
+             
+
+      }
