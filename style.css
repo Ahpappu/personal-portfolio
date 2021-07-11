@@ -19,7 +19,7 @@ p    {
     padding-left: 60px;
 
      }
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
      }
@@ -59,7 +59,7 @@ section {
         width: 80%;
         padding-left: 5%;
         }
-
+ 
     .dream-big{
         background-image: url(images/dream-bg.png);
         background-repeat: no-repeat;
