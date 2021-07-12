@@ -70,15 +70,47 @@ p    {
         color: orange;
     }
     .experience-box{
-        box-shadow: 10px 10px 40px grey; 
+        box-shadow: 20px 20px 40px grey; 
         width: 40%;
         margin-left: 3%;
         margin-right: 3%;
         padding-left: 5px;
         padding-right: 5%;
-        border-radius: 5%;
+        border-radius: 25px;
+        border-left: 10px solid ;
+
     }
     .developer{
         font-size: 40px;
         padding-left:12%;
+    }
+    .experience {
+
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left 100%;
+    }
+    
+    #last-part{
+        border-left: 8p solid ;
+        border-image: ;
+
+    }
+    #last-part-1{
+        border-image: linear-gradient(orange,tomato);
+        border-image-slice: 1;
+        border-left: 7px solid;
+        
+    }
+
+    #last-part-2{
+        border-image: linear-gradient(blue, cyan);
+        border-image-slice: 1;
+        border-left: 7px solid;
+
+    }
+    footer p {
+
+        text-align: center;
+        color: gray; 
     }
